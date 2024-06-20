@@ -36,6 +36,7 @@ other times like this:
 <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="100"/><img align="center"  src="https://user-images.githubusercontent.com/29381329/219448652-d222450e-c260-4b30-adfa-b29da36c4f71.png" width="65" height="75"/>
 <img align="center" src="https://user-images.githubusercontent.com/29381329/219449925-696cb620-6e40-47c9-a97f-c78539eb6bf5.png"  width="45" height="55"/>
 <img align="center" src="https://user-images.githubusercontent.com/29381329/219453487-a827af46-896e-4104-8958-6ec838807e1f.png"  width="55" height="55"/>
+<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png"  width="55" height="55"/>
 <img align="center" src="https://user-images.githubusercontent.com/29381329/219453691-26ac049f-3674-4756-97ca-e44e250871f2.png"  width="45" height="55"/>
 <img align="center" src="https://user-images.githubusercontent.com/29381329/219453808-feb9c494-151e-4eb1-9685-8e8079cef0e2.png"  width="45" height="55"/>
 <img align="center" src="https://user-images.githubusercontent.com/29381329/219453957-a241bf1b-bfe7-4505-94c9-bd64cb0117b6.png"  width="45" height="55"/>
