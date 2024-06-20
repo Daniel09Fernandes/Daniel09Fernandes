@@ -1,6 +1,6 @@
 ## About Me 
 
-- 👋 Hi, I’m Daniel - DinosDev, a good guy from Minas Gerais, passionate about programming,
+- 👋 Hi, I’m Daniel - DinosDev, a guy from Minas Gerais, passionate about programming,
 
 Sometimes you find me like this:
 
