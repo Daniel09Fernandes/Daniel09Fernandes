@@ -1,6 +1,9 @@
 ## About Me 
 
-- 👋 Hi, I’m Daniel - DinosDev, a guy from Minas Gerais, passionate about programming,
+<img width="500" height="661" alt="mvp_logo" src="https://github.com/user-attachments/assets/78b9d8b4-46d3-4496-833a-7916b2075d26" />
+
+## Hi, I’m Daniel 👋
+-   DinosDev is a guy from Minas Gerais, passionate about programming,
 
 Sometimes you find me like this:
 
@@ -16,7 +19,7 @@ other times like this:
 
 
 - 👀 I’m interested in backend technology
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C# and Angular 
 - 💞️ I’m looking to collaborate on Componente_DinosOffice https://github.com/Daniel09Fernandes/ComponentDinosOffice-OpenOffice
 
 ## Contatos:
