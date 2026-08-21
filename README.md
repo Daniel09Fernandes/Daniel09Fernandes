@@ -30,14 +30,6 @@ Desenvolvedor de Minas Gerais com sólida experiência em arquitetura de softwar
 
 ---
 
-### 📊 Estatísticas
-<p align="left">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel09Fernandes&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel09Fernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
 ### 🐱 Workflow & Debugging
 | Codando como um MVP | Quando o erro é no banco... |
 | :---: | :---: |
